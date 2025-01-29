@@ -7,7 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05e61ce6-845b-483f-8dba-1297b5a2828c" name="Changes" comment="We started the game in program.cs">
+    <list default="true" id="05e61ce6-845b-483f-8dba-1297b5a2828c" name="Changes" comment="Finished the program.cs file.">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mission#4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mission#4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +36,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/sarah/RiderProjects/Mission-4/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/board.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -89,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738180035840</updated>
-      <workItem from="1738180037503" duration="5626000" />
+      <workItem from="1738180037503" duration="6414000" />
     </task>
     <task id="LOCAL-00001" summary="Welcomed user to the game">
       <option name="closed" value="true" />
@@ -107,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738183052475</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished the program.cs file.">
+      <option name="closed" value="true" />
+      <created>1738186346145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738186346145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +129,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Welcomed user to the game" />
     <MESSAGE value="We started the game in program.cs" />
-    <option name="LAST_COMMIT_MESSAGE" value="We started the game in program.cs" />
+    <MESSAGE value="Finished the program.cs file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the program.cs file." />
   </component>
 </project>
